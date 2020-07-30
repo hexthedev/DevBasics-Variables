@@ -1,0 +1,2 @@
+# Variable Syntax
+identifier = "value"
